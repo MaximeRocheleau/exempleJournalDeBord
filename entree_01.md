@@ -10,4 +10,6 @@ J'ai choisis le programme TIM car tout ce qui l'englobe m'intéresse puisque j'a
 - la programation web
 - modélisation
 - etc..
+
+
 Le cours qui m'intéresse le plus dans ce programme est celui de l'**animation** 2D et 3D car cela m'a toujours fasciné quand j'était plus jeune donc avoir une chance de l'apprendre sera comme un rêve de jeunesse pour moi😊. Une autre raison pour le choix de ce programme est qu'il ouvre plusieurs portes pour de futurs emplois vu qu'il y a une multitude de domaines différents qu'on va apprendre au cours des sessions.
