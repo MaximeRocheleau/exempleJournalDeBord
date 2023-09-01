@@ -4,11 +4,7 @@
 Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
 
 ## Pourquoi j'ai choisi l'intégration multimédia
-J'ai choisis le programme TIM car tout ce qui l'englobe m'intéresse puisque j'aime tout ce qui est relier au ordinateur, application, travailler et jouer sur un ordinateur. J'aime aussi apprendre de nouvelles choses dans des domaines qui varient les uns des autres, comme par exemple:
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+J'ai choisis le programme TIM car tout ce qui l'englobe m'intéresse puisque j'aime tout ce qui est relier au ordinateur, application, travailler et jouer sur un ordinateur. J'aime aussi apprendre de nouvelles choses dans des domaines qui varient les uns des autres, comme par exemple:                                                                                                                                                    
 . l'audio
 . l'animation
 . la programation web
