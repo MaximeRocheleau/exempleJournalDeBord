@@ -20,4 +20,3 @@ J'aime cette oeuvre car elle nous partage de bon aspects de la vie comme l'innov
 
 ### [VAYSHA L'AVEUGLE RV](https://www.onf.ca/interactif/vaysha_laveugle_rv/)
 J'ai opté pour cette oeuvre puisqu'elle nous parle de l'importance du moment présent. Plusieurs d'entre nous ont tendance a penser au futur ou au passé, ou même au deux, mais on oublie parfois que le moment présent est aussi important que les autres.
-
