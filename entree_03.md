@@ -2,7 +2,7 @@
 ## Plan de carrière
 
 ### Présentation
-Je suis un garçon de 17 ans passioné de ce qui englobe la technologie, plus particulièrement ce qui entoure les jeux vidéos. Je joue beaucoup a ceux-ci dans mes temps libres car ils m'aident a penser à autre choses que le travail et le cégep, ça me permet de prende une pause. 
+Je suis un garçon de 17 ans passioné de ce qui englobe la technologie, plus particulièrement ce qui entoure les jeux vidéos. Je joue beaucoup a ceux-ci dans mes temps libres car ils m'aident a penser à autre choses que le travail et le cégep, ça me permet de prende une pause.
 
 ### Intérêts dans le domaine
 Parlez de vos intérêts en multimédia. 
