@@ -2,19 +2,17 @@
 ## Décrire 5 emplois du domaine du multimédia
 Choisissez des emplois qui pourraient vous intéresser. 
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+### Emploi 1 - Modélisateur 3D
+Pour ce métier, if faut créé des objets ou des personnages en trois dimensions à l’aide d’un logiciel spécialisé. Ces modèles 3D sont ensuite utilisés pour des applications telles que les jeux vidéo, la visualisation architecturale, l’animation et le design produit. Ceux qui travaillent dans ce domaine sont souvent situés dans un bureau avec des ordinateurs. Il y a plusieurs qualitées qu'il faut idéalement avoir pour ce métier comme par exemple la créativité, l'originalité, l'autonomie, la patience et avoir le soucis du détail. Il faut également être habile avec le logiciel. Cela est un emploi qui m'intéresse parce que j'ai quelque base en modélisation avec l'application Blender et j'ai souvent voulu m'améliorer en modélisation 3D puisque je pourra faire mes propres modèles de A à Z. Ce qui rend ce métier unpeu moins intéressant est que la modélisation 3D demande beaucoup de précision et de temps car il ne faut absolument pas oublier une petite partit du modèle, ce qui peut parfois arriver vu que l'on doit observer le modèle dans tout les sens puisqu'il est 3D et non 2D.
 
-### Emploi 2 - Identification
-Animateur 2D ou 3D
+### Emploi 2 - Animateur 2D / 3D
+Il faut être capable de créer des images, des personnages ainsi que tous les mouvements qu'ils seront capable à faire au cours de l'animation ou jeux vidéo. Il faut créé un rythme, dessiner les traits de chaque personnage ainsi que chacun de ses gestes. Ces personnes travaillent généralement dans un studio ou en télétravail, sur des ordinateurs. Il faut avoir des qualitées comme la créativité, la polyvalence, la technicité et l'originalité. Ce métier m'intéresse car jeune j'ai toujours été impressionné par l'animation donc l'apprendre serait génial. Le seul problème est que l'animation peut prendre vraiment beaucoup de temps à faire avec tout les petits détails qu'il peut y avoir.
 
-### Emploi 3 - Identification
-4 à 5 lignes 
+### Emploi 3 - Compositeur audio:
+Il faut pouvoir créé une trame sonore originale et agréable à l'écoute, à l'aide d'un assemblage de sons enregistrés qui feront par la suite une musique ou un bruit de fond d'ambiance. Cette composition doit être apte avec l'ambiance et son style, que ce soit pour un jeu vidéo ou juste une musique. Les employers travaillent généralement en studio spécialiser pour l'audio, sur ordinateurs. Les qualitées demandées sont l'inventivité, la créativité, l'innovation et la sensibilité. Il faut aussi être attentif pour l'écoute. Ça m'intéresse car j'aime beaucoup la sensation que l'on peut ressentir en écoutant de la musique et ce domaine me fascine donc j'aimerais également partager cette sensation en créant mes propres trames sonores. Comme pour l'animation, créé sa propre trame sonore peut prendre beaucoup de temps et certains problèmes peuvent se produire.
 
-### Emploi 4 - Identification
-4 à 5 lignes
+### Emploi 4 - Programmeur informatique
+Pour ce métier, les tâches sont écrire, modifier, intégrer et mettre à l'essai le code des logiciels. Il faut également assurer la mise à jour des programmes informatiques existants en effectuant les modifications nécessaire et communiquer les problèmes techniques, procédures et solutions. Cela ce fait dans un local d'informatique avec encore des ordinateurs ou en télétravail aussi. Certaines qualitées demandées sont être autonome, persévérant, patient et technique. Je suis intéressé car mon père fait un métier similaire donc il pourrait m'aider a en apprendre d'avantage et a régler des problèmes. Ce qui rend ce métier moins intéressant est qu'il y a plusieurs erreurs dans le code qu'ils faut corriger donc il faut relire plusieurs fois les lignes de codes, qui sont parfois très longues.
 
-### Emploi 5 - Identification
-4 à 5 lignes
-
-
+### Emploi 5 - Graphiste
+Un graphiste a pour fonction de concevoir et de réaliser différents éléments visuels comme par exemple des images, logos, chartes graphiques etc.. à l'aide de divers logiciels spécialisées pour cela comme Photoshop. Ils travaillent en bureau sur des ordinateurs ou tablettes graphiques. Quelques qualitées nécessaires sont être créatif, organiser et original. Ce métier m'intéresse car je suis déjà plutôt habituer avec photoshop et certains autres logiciels pour faire du graphisme donc je ne vais pas être trops perdu. Un point qui rend ça moins intéressant est que comme les autres c'est un travail qui peut être long et demandant car certains logos changent régulièrement.
