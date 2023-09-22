@@ -8,7 +8,7 @@ Pour ce métier, if faut créé des objets ou des personnages en trois dimension
 ### Emploi 2 - Animateur 2D / 3D
 Il faut être capable de créer des images, des personnages ainsi que tous les mouvements qu'ils seront capable à faire au cours de l'animation ou jeux vidéo. Il faut créé un rythme, dessiner les traits de chaque personnage ainsi que chacun de ses gestes. Ces personnes travaillent généralement dans un studio ou en télétravail, sur des ordinateurs. Il faut avoir des qualitées comme la créativité, la polyvalence, la technicité et l'originalité. Ce métier m'intéresse car jeune j'ai toujours été impressionné par l'animation donc l'apprendre serait génial. Le seul problème est que l'animation peut prendre vraiment beaucoup de temps à faire avec tout les petits détails qu'il peut y avoir.
 
-### Emploi 3 - Compositeur audio:
+### Emploi 3 - Compositeur audio
 Il faut pouvoir créé une trame sonore originale et agréable à l'écoute, à l'aide d'un assemblage de sons enregistrés qui feront par la suite une musique ou un bruit de fond d'ambiance. Cette composition doit être apte avec l'ambiance et son style, que ce soit pour un jeu vidéo ou juste une musique. Les employers travaillent généralement en studio spécialiser pour l'audio, sur ordinateurs. Les qualitées demandées sont l'inventivité, la créativité, l'innovation et la sensibilité. Il faut aussi être attentif pour l'écoute. Ça m'intéresse car j'aime beaucoup la sensation que l'on peut ressentir en écoutant de la musique et ce domaine me fascine donc j'aimerais également partager cette sensation en créant mes propres trames sonores. Comme pour l'animation, créé sa propre trame sonore peut prendre beaucoup de temps et certains problèmes peuvent se produire.
 
 ### Emploi 4 - Programmeur informatique
