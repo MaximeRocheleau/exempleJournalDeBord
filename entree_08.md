@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-C'est un DLC d'un jeu existant innovant, qui suit le style de jeu "battle royal"
+C'est un DLC d'un jeu existant innovant (cyberpunk), qui suit le style de jeu "battle royal"
 
 ### Moodboard
 https://trello.com/b/byziUhGH/multim%C3%A9dia-ting-yung-lu-elie-daher-maxime-rocheleau
