@@ -3,26 +3,32 @@
 
 ### Points forts de votre présentation 
 Nommer deux points forts de votre présentation.
+
 Pas présenté
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
+
 Pas présenté
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de la présentation?
+
 Pas présenté
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
+
 J'ai utilisé la liste de consigne à suivre pour m'assurer que tout était présent dans le power point et l'exemple du prof de trello pour bien suivre les démarches correctement.
 
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
+
 Pas présenté
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
+
 Pas présenté
 
 ## Rétrospective de la session
